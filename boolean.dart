@@ -14,6 +14,6 @@ void main() {
   if (lovesDebugging) {
     print("🐛 Debugging is like solving a puzzle!");
   } else {
-    print("🚀 Focus on writing bug-free code!");
+    print(" Focus on writing bug-free code!");
   }
 }
